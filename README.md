@@ -120,6 +120,12 @@ Users can filter data by:
 ---
 
 ## 🖼️ Dashboard Preview
-*(Insert dashboard screenshot here)*
+
+Sales Dashboard
+![Sales Dashboard](documents/sales-dashboard-preview.png)
+
+Customer Dashboard
+![Customer Dashboard](documents/customer-dashboard-preview.png)
+
 
 ---
