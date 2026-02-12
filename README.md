@@ -4,7 +4,7 @@
 This project presents two interactive Tableau dashboards designed to help stakeholders analyse **sales performance** and **customer behaviour**.  
 The dashboards support **data-driven decision-making** by highlighting key trends, performance comparisons, and actionable insights.
 
-🔗 **Interactive Dashboard:** https://public.tableau.com/views/SalesCustomerDashboard_17708976002710/CustomerDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+🔗 **Interactive Dashboard:** https://bit.ly/nvnr_dashboard01
 
 ---
 
@@ -23,7 +23,6 @@ This project transforms raw sales data into interactive dashboards that help:
 ## 📂 Dataset
 - **Source:** Superstore Sales Dataset (sample retail dataset)  
 - **Records:** ~10,000 transactions  
-- **Key Fields:** Order Date, Sales, Profit, Quantity, Category, Subcategory, Region, Customer Name
 
 ---
 
@@ -107,16 +106,16 @@ Users can filter data by:
 ---
 
 ## 🔍 Key Insights *(Fill after analysis)*
-- Insight 1  
-- Insight 2  
-- Insight 3  
-
+- Sales growing faster than profit quality – Revenue +20.4%, but profit +14.2% → margin pressure from discounting or product mix.
+- Loss-making categories exist – Several subcategories consistently erode profit despite strong top-line performance.
+- High customer concentration & low retention – Profit driven by a few customers; most customers order only 1–2 times.
+  
 ---
 
 ## 💡 Business Recommendations *(Fill after analysis)*
-- Recommendation 1  
-- Recommendation 2  
-- Recommendation 3  
+- Fix or remove unprofitable categories – Reprice, renegotiate costs, bundle, or discontinue loss-making SKUs.
+- Implement margin control discipline – Set weekly margin thresholds and restrict low-margin promotions.
+- Strengthen retention strategy – Protect top customers and increase repeat purchase rate to grow CLV.
 
 ---
 
