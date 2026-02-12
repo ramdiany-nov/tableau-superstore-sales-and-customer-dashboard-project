@@ -129,3 +129,14 @@ Customer Dashboard
 
 
 ---
+## 👋 About Me
+
+Hi there! I'm **Novia Noer Ramdiany**. I’m passionate about data and turning raw numbers into meaningful insights.
+
+Let's stay in touch!  
+Feel free to connect with me on LinkedIn:  
+🔗 https://www.linkedin.com/in/noviaramdiany/
+
+---
+
+⭐ If you find this project interesting, feel free to explore the queries and reach out!
