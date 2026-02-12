@@ -4,7 +4,7 @@
 This project presents two interactive Tableau dashboards designed to help stakeholders analyse **sales performance** and **customer behaviour**.  
 The dashboards support **data-driven decision-making** by highlighting key trends, performance comparisons, and actionable insights.
 
-🔗 **Interactive Dashboard:** *(Add your Tableau Public link here)*
+🔗 **Interactive Dashboard:** https://public.tableau.com/views/SalesCustomerDashboard_17708976002710/CustomerDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
