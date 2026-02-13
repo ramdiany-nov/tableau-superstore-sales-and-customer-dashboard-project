@@ -127,6 +127,32 @@ Sales Dashboard
 Customer Dashboard
 ![Customer Dashboard](documents/customer-dashboard-preview.png)
 
+---
+## 📂 Repository Structure
+```
+tableau-superstore-sales-and-customer-dashboard-project/
+│
+├── datasets/                              # Raw datasets (Superstore source data)
+│   ├── customers.csv
+│   ├── orders.csv
+│   ├── location.csv
+│   └── products.csv
+│
+├── dashboards/                            # Final Tableau dashboard files
+│   └── superstore-sales-and-customer-dashboard.twb
+│
+├── documents/                             # Project documentation & design artifacts
+│   ├── analysis-report.docx               # Business insights & recommendations
+│   ├── dashboard-mockup.pdf               # Low-fidelity dashboard design
+│
+├── assets/                                # Images used in README & dashboard
+│   ├── sales-dashboard-preview.png
+│   ├── customer-dashboard-preview.png
+│   └── icons/ (optional, if you want subfolder)
+│
+├── README.md                              # Project overview
+├── LICENSE
+└── .gitignore
 
 ---
 ## 👋 About Me
