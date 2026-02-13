@@ -4,7 +4,7 @@
 This project presents two interactive Tableau dashboards designed to help stakeholders analyse **sales performance** and **customer behaviour**.  
 The dashboards support **data-driven decision-making** by highlighting key trends, performance comparisons, and actionable insights.
 
-🔗 **Interactive Dashboard:** https://bit.ly/nvnr_dashboard01
+🔗 **Interactive Dashboard:** https://bit.ly/NVNR_Dashboard_01
 
 ---
 
