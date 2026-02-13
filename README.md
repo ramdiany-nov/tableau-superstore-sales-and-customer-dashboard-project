@@ -1,4 +1,4 @@
-# 📊 Tableau Sales & Customer Dashboard Project
+# 📊 Tableau Superstore Sales & Customer Dashboard Project
 
 ## 📌 Project Overview
 This project presents two interactive Tableau dashboards designed to help stakeholders analyse **sales performance** and **customer behaviour**.  
